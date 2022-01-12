@@ -19,11 +19,8 @@ A program that accesses the computers video camera and detects whether humans ar
 
 * Download all repository files to the same folder
 * Download the dataset here: 
-* run
+* run main.py
 
 ## Author
 * Ziyad Tahlilkar
 * https://www.linkedin.com/in/ziyadt/
-
-## Acknowledgments
-* I am not employed by the UFC, nor do I own any part of it. This project is simply the product of the enjoyment I have gotten out of watching the events.
